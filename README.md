@@ -1,5 +1,5 @@
 # Hello World!, I'm Bayu, an Indonesian Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://bayuawe.my.id)<br>👨🏼‍🎓 studying computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022</i>
+🛜 currently working on my own [webpage](https://bayuawe.my.id)<br>👨🏼‍🎓 bachelor computer science at University of Muhammadiyah Riau<br>👨🏼‍💻 working as a web developer since 2023</i>
 
 
 # 💻 Tech Stack:
